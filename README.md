@@ -30,3 +30,11 @@ A full-stack web application to digitalize cinema management:
 
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/oussama-el-moqadem-19640a387
+
+## 📌 2026 Focus
+- Building new MERN/.NET projects
+- Improving my portfolio and open-source contributions
+
+## 🎓 Academic Project (2025)
+- 🎬 Cinema Management System (MERN) — PFE (2025)
+ 
