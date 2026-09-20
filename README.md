@@ -1,22 +1,26 @@
-# Hi, I'm Oussama El Moqadem 👋
+# Hi, I'm Oussama El Moqadem
 
-🎓 4th year Engineering student (EMSI) On Digital Development & Information Systems  
-🎓 BSc in Mathematics & Computer Science (Faculty of Sciences Rabat) 
+### Software Engineer | Full-Stack Developer
 
-💻 Full-Stack Developer (MERN): **React • Node.js/Express • MongoDB**  
-🔐 Interested in **REST APIs, JWT Authentication**, and building clean, scalable web apps.
+I am a **5th-year Software Engineering student at EMSI**, focused on building secure, scalable, and maintainable full-stack applications. I work across backend development, modern frontend interfaces, databases, API design, microservices, testing, and containerized environments.
 
----
-## 🛠️ Tech Stack
-**JavaScript, React, Node.js, Express.js, MongoDB, Mongoose, REST API, JWT, Git/GitHub**
+## What I Do
 
+- Build robust backend applications with **Java, Spring Boot, and Spring Security**
+- Develop responsive web interfaces with **Angular, React, and TypeScript**
+- Design and integrate secure **REST APIs** using **JWT authentication**
+- Create modular, scalable systems using **Microservices and Spring Cloud**
+- Work with relational and NoSQL databases
+- Containerize development environments with **Docker and Docker Compose**
+- Validate application quality through unit, API, and functional testing
 
-## 🎓 Academic Project (2025)
-### 🎬 Cinema Management System (MERN) — PFE
--**Featured Project**
-Web application to digitalize cinema management:
-- Movies / Rooms / Sessions / Reservations
-- Roles: Admin / Organizer / Participant
-- REST API + JWT Authentication
-- MongoDB (Mongoose)
-- Email notifications (confirmation/cancellation/reminder)
+## Tech Stack
+
+| Category | Technologies |
+| --- | --- |
+| **Backend** | Java, Spring Boot, Spring Security, Maven |
+| **Frontend** | Angular, React, TypeScript |
+| **Databases** | PostgreSQL, MySQL, MongoDB |
+| **Architecture & APIs** | REST APIs, Microservices, Spring Cloud, JWT |
+| **DevOps & Version Control** | Docker, Docker Compose, Git, GitHub |
+| **Testing & Quality** | JUnit, API Testing, Functional Testing |
